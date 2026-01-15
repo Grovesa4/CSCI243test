@@ -1,2 +1,3 @@
 more information here
+<<<<<<< HEAD
 added more information here
